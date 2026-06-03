@@ -23,6 +23,16 @@ I am a passionate developer focused on building efficient software, exploring lo
 * Exploring algorithms and dynamic programming to write cleaner, faster code.
 
 ---
+### Github Contribution
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brotheryuth/Brotheryuth/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brotheryuth/Brotheryuth/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/Brotheryuth/Brotheryuth/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
 
 ### <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50"  />&nbsp;&nbsp;GitHub Stats
 
