@@ -5,7 +5,7 @@ I am a passionate developer focused on building efficient software, exploring lo
 
 ---
 
-### Tech Stack & Tools
+### Tech Stack & Tools <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" />
 
 * **Languages:** C, C++, Java, JavaScript, React, TypeScript
 * **Backend & Databases:** Node.js, PostgreSQL, Git, MySQL
@@ -24,7 +24,7 @@ I am a passionate developer focused on building efficient software, exploring lo
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50" /> GitHub Stats
+### <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50"  />&nbsp;&nbsp;GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Brotheryuth&show_icons=false&theme=gotham" alt="GitHub Stats" />
@@ -43,7 +43,7 @@ I am a passionate developer focused on building efficient software, exploring lo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brotheryuth&theme=dark" alt="GitHub Streak" />
 </p>
 
----
+<img  src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 4px;">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
@@ -51,5 +51,5 @@ I am a passionate developer focused on building efficient software, exploring lo
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="200" />
 </p>
