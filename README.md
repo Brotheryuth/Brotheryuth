@@ -12,7 +12,7 @@ I am a passionate developer focused on building efficient software, exploring lo
 * **Hardware & Systems:** Arduino, ESP32, Low-Level Programming
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Brotheryuth&layout=compact&theme=gotham" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Brotheryuth&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
