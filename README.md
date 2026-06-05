@@ -11,9 +11,6 @@ I am a passionate developer focused on building efficient software, exploring lo
 * **Backend & Databases:** Node.js, PostgreSQL, Git, MySQL
 * **Hardware & Systems:** Arduino, ESP32, Low-Level Programming
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Brotheryuth&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 ---
 
@@ -35,10 +32,6 @@ I am a passionate developer focused on building efficient software, exploring lo
 ---
 
 ### <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50"  />&nbsp;&nbsp;GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Brotheryuth&show_icons=false&theme=gotham" alt="GitHub Stats" />
-</p>
 
 ---
 
