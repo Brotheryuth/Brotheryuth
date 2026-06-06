@@ -1,7 +1,7 @@
 # Welcome to My GitHub Space! <img src="https://camo.githubusercontent.com/0f70b19dcb89600dbe6aa75be8cf6fbe9f8f83be1bcd0290120b6b2bb5bc84b9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="100" />
 
 ### Software Engineering & Tech Explorer
-I am a passionate developer focused on building efficient software, exploring low-level systems, and solving complex problems. I love diving into how hardware and software integrate, optimizing code, and bringing impactful ideas to life. Let's build something awesome!
+I am a passionate developer focused on building efficient software, exploring low-level systems, and solving complex problems. I love diving into how hardware and software integrate, optimizing code, and bringing impactful ideas to life.
 
 ---
 
