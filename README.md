@@ -8,16 +8,9 @@ I am a passionate developer focused on building efficient software, exploring lo
 ### Tech Stack & Tools <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" />
 
 * **Languages:** C, C++, Java, JavaScript, React, TypeScript
-* **Backend & Databases:** Node.js, PostgreSQL, Git, MySQL
+* **Backend & Databases:** Node.js, Java , PostgreSQL, Git, MySQL
 * **Hardware & Systems:** Arduino, ESP32, Low-Level Programming
 
-
----
-
-### Current Focus & Projects
-* Developing optimized backend systems and web applications.
-* Experimenting with hardware-software integration and robotics projects.
-* Exploring algorithms and dynamic programming to write cleaner, faster code.
 
 ---
 ### Github Contribution
@@ -35,10 +28,6 @@ I am a passionate developer focused on building efficient software, exploring lo
 
 ---
 
-### User Quote
-> "DO or do not, there's no try" - Master Yoda
-
----
 
 ### Github Status
 
