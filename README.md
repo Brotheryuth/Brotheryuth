@@ -43,9 +43,4 @@ Developer focused on the intersection of web technology, database systems, and l
   </picture>
 </p>
 
-### Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brotheryuth&show_icons=true&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brotheryuth&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
