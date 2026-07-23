@@ -1,47 +1,51 @@
-# Welcome to My GitHub Space! <img src="https://camo.githubusercontent.com/0f70b19dcb89600dbe6aa75be8cf6fbe9f8f83be1bcd0290120b6b2bb5bc84b9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="100" />
+<div align="center">
 
-### Software Engineering & Tech Explorer
-I am a passionate developer focused on building efficient software, exploring low-level systems, and solving complex problems. I love diving into how hardware and software integrate, optimizing code, and bringing impactful ideas to life.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vcenter=true&width=550&lines=Ly+Serakyuth;Software+Engineer;Full-Stack+%26+Backend+Dev" alt="Typing Header" />
+
+*Building web applications, backend services, and embedded hardware interfaces.*
+
+</div>
+
+---
+
+### Profile & Focus
+
+Developer focused on the intersection of web technology, database systems, and low-level software engineering. 
+
+**What I Work On:**
+* **Full-Stack Development** 
+* **Database Systems** 
+* **Low-Level & Hardware** 
+* **System Efficiency** 
 
 ---
 
-### Tech Stack & Tools <img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30" />
+### Tech Stack
 
-* **Languages:** C, C++, Java, JavaScript, React, TypeScript
-* **Backend & Databases:** Node.js, Java , PostgreSQL, Git, MySQL
-* **Hardware & Systems:** Arduino, ESP32, Low-Level Programming
+#### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+#### Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Hardware & Infrastructure
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-### Github Contribution
+
+### Contribution Graph
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brotheryuth/Brotheryuth/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brotheryuth/Brotheryuth/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Contribution Animation" src="https://raw.githubusercontent.com/Brotheryuth/Brotheryuth/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Brotheryuth/Brotheryuth/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
----
-
-### <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50"  />&nbsp;&nbsp;GitHub Stats
-
----
-
-
-### Github Status
+### Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brotheryuth&theme=dark" alt="GitHub Streak" />
-</p>
-
-<img  src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
-
-<p style="display: flex; justify-content: center; align-items: center; gap: 4px;">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brotheryuth&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brotheryuth&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
