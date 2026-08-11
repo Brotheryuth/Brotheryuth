@@ -8,18 +8,6 @@
 
 ---
 
-### Profile & Focus
-
-Developer focused on the intersection of web technology, database systems, and low-level software engineering. 
-
-**What I Work On:**
-* **Full-Stack Development** 
-* **Database Systems** 
-* **Low-Level & Hardware** 
-* **System Efficiency** 
-
----
-
 ### Tech Stack
 
 #### Languages
